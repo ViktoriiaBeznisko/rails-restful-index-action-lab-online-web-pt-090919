@@ -5,3 +5,4 @@ class StudentController < ActionController
   end 
   
 end
+
